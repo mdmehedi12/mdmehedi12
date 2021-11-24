@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Colors.in" group-title="Bangladesh TV",IN-BD: Colors Bangla HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179255
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Massranga
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179271
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: StarJalshaMovie
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179263
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Jalsa Movies HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179254
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Channel9
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179273
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: SUN Bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179258
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: somoy tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179270
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: boishakhi
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179268
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Btv world
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179267
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Gaanbangla HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179285
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: mohona tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179265
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ntv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179269
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Deepto tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179275
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Channel24
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179280
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: BTV-
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179278
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: SANGSAD BANGLADESH
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179290
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Masranga HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179281
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD:  Desh Tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179286
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Ekushey TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179287
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Nagorik tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179289
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: bijoy tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179296
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: SA tv bd
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179295
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: IQRA Bangla TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324673
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ATN
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324674
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ATN News
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324675
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Channel 9
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324678
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Channel S
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324679
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Desh TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324680
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: My TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324686
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: News 24
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324687
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Peace TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324688
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Rupashi
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324689
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Millennium Tv
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324691
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Vision
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324692
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: SATV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324693
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Channel I
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324696
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Gazi TV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324698
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Independent News
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324699
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Maasranga
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324702
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: DBC News
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324704
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: BIOSAKHI
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/324677
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Zee Bangla Cinema
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325131
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ZEE BANGLA HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325132
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Nick Bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325125
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ETV Bangla News
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325126
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Aakaash bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325129
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: DD Bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325133
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: TV9 Bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325123
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Star Jalsa HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179253
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IND: BD: Sony aath
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/522386
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Discovery Channel Bengali
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/325128
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: T-Sports-HD
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179284
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: ZEE BANGLA CINE
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179257
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: sangeet bangla
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179283
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: GaziTV
+http://geoiptv.org:8880/5136885525/TVSTARIPTV/179272
