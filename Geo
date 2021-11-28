@@ -210,18 +210,7 @@ http://geoiptv.org:8880/459770591308/TVSTARIPTV/179344
 #EXTINF:0 tvg-id="ext" group-title="India Sports - Local TV",IND: STAR SPORTS 1 HD 1080 H.264
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/179348
 
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Bein Sport SD / HD TV",AR: beIN Sports Max 1 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/352813
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: beIN Sports Max 2 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/352814
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: beIN Sports Max 3 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/352815
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Bein Sport SD / HD TV",AR: beIN Sports Max 4 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/352816
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: Bein sport max 5 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/322123
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: Bein sport max  6 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/322124
+
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: VIP BeIN Sports 1 HD
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/109021
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: VIP BeIN Sports 2-HD
@@ -234,6 +223,8 @@ http://geoiptv.org:8880/459770591308/TVSTARIPTV/109024
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/109025
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: VIP BeIN Sports 6-HD
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/109026
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein Sport SD / HD TV",AR: BeIN Sports 7 HD
+http://geoiptv.org:8880/459770591308/TVSTARIPTV/109027
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: VIP BeIN Sports 9-HD
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/109029
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: VIP BeIN Sports 10 HD
@@ -242,44 +233,46 @@ http://geoiptv.org:8880/459770591308/TVSTARIPTV/109030
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/10473
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",BS: VIP BeIN Sports 12-HD
 http://geoiptv.org:8880/459770591308/TVSTARIPTV/109031
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sport 1 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10463
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sport 3 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10465
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",BS:  Bein Sport 4 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10466
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sport 5 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10467
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",BS:  Bein Sport 7 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10469
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sport 8 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10470
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sports 9 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/136573
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sports 10 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/136574
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",BS:  Bein Sport News HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/99520
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",||AR.BEIN|| BEIN SPORTS 11 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135577
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: BEIN FOX REWAYAT
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135584
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: BEIN FATAFEAT HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135585
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: BEIN GULI
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135587
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: BEIN GOURMET
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135586
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",AR: BEIN SPORTS NEWS HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/135588
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",BS:  Bein Sport 6 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10468
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein Sport SD / HD TV",AR: Bein Sport 2 SD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/10464
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein Sport SD / HD TV",AR: BeIN Sports 7 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/109027
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",beIN SPORTS XTRA 1 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/456753
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport SD / HD TV",beIN SPORTS XTRA 2 HD
-http://geoiptv.org:8880/459770591308/TVSTARIPTV/456754
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS Premium 1 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146390
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS Premium 2 HD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/61304
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS Premium 3 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146394
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 1 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/61303
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 2 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146391
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 3 HD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/61305
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 4 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146393
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 5 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146395
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",beIN Sports 6 4K
+http://geoiptv.org:8880/459770591308/TVSTARIPTV/461342
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein Sports FHD & 4K TV",AR: BEIN SPORTS 7 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146396
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",EN: Bein Sports 1 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/99546
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",EN: BEIN SPORTS 2 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146398
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein Sports FHD & 4K TV",EN: BEIN SPORTS 3 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146392
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Bein Sports FHD & 4K TV",FR: BEIN SPORTS 1 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/108995
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Bein Sports FHD & 4K TV",FR: BEIN SPORTS 2 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146401
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",FR: BEIN SPORTS 8 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/146405
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",FR: BEIN SPORTS 9 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/109005
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",beIN SPORTS XTRA 1 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/456755
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports FHD & 4K TV",beIN SPORTS XTRA 2 FHD
+http://geoiptv.org:8880/212913941177/TVSTARIPTV/456756
 
