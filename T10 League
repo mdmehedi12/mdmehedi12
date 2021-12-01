@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",T SPORTS AUTO RESOLUTION
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638394021/ei/RZSnYZzZGaWGjuMPpM2XyAI/ip/103.135.90.150/id/XUCGtPcBRdc.1/source/yt_live_broadcast/requiressl/yes/tx/24114337/txs/24114336%2C24114337%2C24114338/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPJY69AHHg7KPWk66L5Q9H42wUDtATj5zNOIWGhV1OKQCIQD_ZN80hvWsQaMBwhm6sjWwlFZmixM2Ujofh2js8m7cTg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",T10 AUTO RESOLUTION
 https://1rdk.short.gy/Himel-Himu/Multi-Resolution/T10-League.m3u8
