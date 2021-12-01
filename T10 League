@@ -17,6 +17,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",FREE SPORTS🏏🏏
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
-EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",SIYATHA TV🏏🏏
-#http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="T10 LEAGUE",SIYATHA TV🏏🏏
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
