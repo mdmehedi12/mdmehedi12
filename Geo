@@ -3,7 +3,7 @@
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179255
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Massranga
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179271
-#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: StarJalshaMovie
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",IN-BD: StarJalshaMovie
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179263
 #EXTINF:0 tvg-id="ext" group-title="My Favourite",IN-BD: Jalsa Movies HD
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179254
@@ -31,7 +31,7 @@ http://geoiptv.org:8880/3929451840/TVSTARIPTV/179280
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179278
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: SANGSAD BANGLADESH
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179290
-#EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD: Masranga HD
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",IN-BD: Masranga HD
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179281
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh TV",IN-BD:  Desh Tv
 http://geoiptv.org:8880/3929451840/TVSTARIPTV/179286
